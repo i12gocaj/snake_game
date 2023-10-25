@@ -4,7 +4,6 @@ import random
 import sys
 
 pygame.init()
-
 # Definir colores
 white = (255, 255, 255)
 yellow = (255, 255, 102)
