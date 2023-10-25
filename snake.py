@@ -134,3 +134,6 @@ def gameLoop():
     sys.exit()
 
 gameLoop()
+
+pygame.init()
+
